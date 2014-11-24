@@ -1,4 +1,4 @@
-body {
+.page {
 	width: 1000px;
 	margin: 0 auto;
 	font-family: arial;
@@ -19,6 +19,17 @@ header {
 	margin: 0 auto;
 }
 
+IMG.social {
+	height: 50px;
+	width: 50px;
+}
+
+.connect {
+	float: left;
+	position: fixed;
+	top: 0;
+}
+
 .left {
 	margin: 50px;
 	float: left;
@@ -27,6 +38,10 @@ header {
 .right {
 	margin: 50px;
 	float: right;
+}
+
+a {
+	text-decoration: none;
 }
 
 .citycontainer {
@@ -72,6 +87,10 @@ IMG.pictures {
 	height: 200px;
 }
 
-.noborder {
-	border-style: hidden;
+.gallery {
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 25px;
 }
+
