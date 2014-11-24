@@ -1,0 +1,85 @@
+body {
+	width: 1000px;
+	margin: 0 auto;
+	font-family: arial;
+	font-style: bold;
+}
+
+header {
+	margin-top: 50px;
+	font-family: arial;
+	font-size: 48px;
+	border-bottom-color: black;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.left {
+	margin: 50px;
+	float: left;
+}
+
+.right {
+	margin: 50px;
+	float: left;
+}
+
+.citycontainer {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.subhead {
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: black;
+}
+.first {
+	float: left;
+	width: 33%;
+	text-align: left;
+	line-height: 3px;
+	border-right-style: solid;
+	border-right-style: solid;
+	border-right-width: 2px
+}
+
+.second {
+	float: left;
+	width: 33%;
+	text-align: center;
+	line-height: 3px;
+	border-right-style: solid;
+	border-right-width: 2px
+
+}
+
+.third {
+	float: left;
+	width: 33%;
+	text-align: right;
+	line-height: 3px;
+}
+
+.content {
+	padding: 30px;
+	text-align: center;
+}
+
+IMG.pictures {
+	width: 200px;
+	height: 200px;
+}
+
+.gallery {
+	margin-right: 30px;
+	margin-top: 30px;
+	width: 300px;
+	height: 300px;
+	float: left;
+}
