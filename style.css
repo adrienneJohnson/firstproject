@@ -17,6 +17,7 @@ header {
 .container {
 	width: 600px;
 	margin: 0 auto;
+	text-align: center;
 }
 
 IMG.social {
@@ -54,6 +55,7 @@ a {
 	border-bottom-width: 2px;
 	border-bottom-color: black;
 }
+
 .first {
 	float: left;
 	width: 33%;
